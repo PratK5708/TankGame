@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+include 'desktop', 'core'
+=======
+include 'desktop', 'android', 'core'
+>>>>>>> 1eaeb38 (first commit)
